@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bkk-governor/static/css/main.8dd176f9.css",
+    "main.js": "/bkk-governor/static/js/main.915219ad.js",
+    "index.html": "/bkk-governor/index.html",
+    "main.8dd176f9.css.map": "/bkk-governor/static/css/main.8dd176f9.css.map",
+    "main.915219ad.js.map": "/bkk-governor/static/js/main.915219ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dd176f9.css",
+    "static/js/main.915219ad.js"
+  ]
+}
