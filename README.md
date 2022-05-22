@@ -1,1 +1,1 @@
-http://chanasia.github.id/bkk-governor/
+https://chanasia.github.io/bkk-governor/
